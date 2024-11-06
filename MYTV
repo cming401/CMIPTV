@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.imgur.com/wSyPmiY.png",RTM TV 1 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/LGEdeyJ.png",RTM TV 2 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJx51f0Xo4bal2oIv5t977GMublIGZPxmf1w&s" ,RTM TV 3 
+https://raw.githubusercontent.com/syfqsamvpn/iptv/main/m3u8/tv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLf3SlVzPsqWMJd2CBQ5-Cf6OyYUq4qXWEbw&s",八度空间
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png",Astro Awani (720p)
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-id="BernamaTV.my" tvg-logo="https://i.imgur.com/skJjF4m.png",Bernama TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png",TVBS News (TVBS新聞台)
+https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+
+#EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/fEUmRST.png",CTi News (中天新聞台)
+https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News Asia Pacific (720p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:-1 tvg-id="TVBS 56台" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/TVBS_2016_Logo.svg/revision/latest?cb=20230921103202",TVBS 56台
+https://yeslivetv.scdn.eu.org/live/4gtv-4gtv073.m3u8?token=NRotekEAZ7DSFrlqehGnsA&expires=1730890731
+
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-id="緯來體育台" tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/vl-sports-live.jpg",緯來體育台
+https://edge.yescdn1.buzz/live/videoland-sports.m3u8?token=i0bGhXrac3FJOOwYT8UzgQ&expires=1730891102
+
+#EXTINF:-1 tvg-id="CCTV5 Sport" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/deruj54-ae693061-ce77-4e19-864d-690f09037ea2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGVydWo1NC1hZTY5MzA2MS1jZTc3LTRlMTktODY0ZC02OTBmMDkwMzdlYTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lwedPtchbb5UUvYAJZnkrIcoV9DUelo_aUwwFCj6z6I",CCTV 5 体育
+https://edge.yescdn.buzz/live/cctv5.m3u8?token=IN4Xxr_7uJxrcKNKerLnOg&expires=1730890179
+
+#EXTINF:-1 tvg-id="CCTV5 Sport" tvg-logo="https://freshines.com/upload/2020/1/cctv5-041e2a3e278a479f9d1b60a6a384207e.jpg",CCTV 5Plus 体育
+https://edge.yescdn2.buzz/live/cctv5plus.m3u8?token=RRcxVvbJj0HuIY9fNNequg&expires=1730890914
+
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://i.imgur.com/1pYYSu2.png",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlXTzn3kr6AofzE1d78AQxWmitIP7ckNWQDg&s",group-title="Sports”, NBA
+https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
+
+#EXTINF:-1 tvg-id="ELEVEN體育1台（DAZN 1）" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/08/Entete-DAZN-1.png",ELEVEN體育1台（DAZN 1）
+https://edge.yeslive.buzz/live/eleven1.m3u8?token=vGRv1BKTZngmQfLReXNsww&expires=1730891253
+
+#EXTINF:-1 tvg-id="ELEVEN體育2台（DAZN 2）" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png",ELEVEN體育2台（DAZN 2）
+https://edge.yeslive.buzz/live/eleven2.m3u8?token=5uFAdpaYRIUrzA03YKg1hA&expires=1730891334
+
+#EXTINF:-1 tvg-logo="http://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png?v=2", 天映频道
+https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/chunklist_w1149808459_b1044100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="TVB 翡翠台" tvg-logo="https://i.imgur.com/1pYYSu2.png",TVB 翡翠台
+https://edge.yeslive.buzz/live/tvb_jade.m3u8?token=u8fVy_POd6LjB0HwSdZbaQ&expires=1730891052
+
+#EXTINF:2 aktv-server-group="AKTV" tvg-id="aktv/channel5hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+
+#EXTINF:3 aktv-server-group="AKTV" tvg-id="aktv/channel8hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+
+#EXTINF:4 aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+
+#EXTINF:10 aktv-server-group="AKTV" tvg-id="aktv/tvbs" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+
+#EXTINF:11 aktv-server-group="AKTV" tvg-id="aktv/tvbs-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+
+#EXTINF:20 aktv-server-group="AKTV" tvg-id="aktv/null-19" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+
+#EXTINF:26 aktv-server-group="AKTV" tvg-id="aktv/null-17" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+
+#EXTINF:24 aktv-server-group="AKTV" tvg-id="aktv/null-18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+
+#EXTINF:36 aktv-server-group="AKTV2" tvg-id="aktv2/now" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now星影台	
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+
+#EXTINF:37 aktv-server-group="AKTV2" tvg-id="aktv2/tvb" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", TVB 星河台	
+http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+
+#EXTINF:38 aktv-server-group="AKTV2" tvg-id="aktv2/viutv99" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", viutv 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+
+#EXTINF:39 aktv-server-group="AKTV2" tvg-id="aktv2/viutv696" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", viutv6 96
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+
+#EXTINF:40 aktv-server-group="AKTV2" tvg-id="aktv2/null-1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", 无线新闻台(北美)	
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+
+#EXTINF:41 aktv-server-group="AKTV2" tvg-id="aktv2/null" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", 爆谷台	
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
